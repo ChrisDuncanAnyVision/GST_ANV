@@ -1,0 +1,3 @@
+[submodule "anv_cv_sdk"]
+	path = anv_cv_sdk
+	url = git@github.com:AnyVisionltd/anv_cv_sdk.git
